@@ -65,7 +65,3 @@ Na Célula 2, um campo de texto vai aparecer — cole sua chave Anthropic (`sk-a
 
 ---
 
-##  API KEY
-
-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
-
