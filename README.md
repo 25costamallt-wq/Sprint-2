@@ -55,7 +55,7 @@ jupyter notebook BluaDiagnostics_Sprint2.ipynb
 ```
 
 ### 4. Execute as células em ordem
-Clique no botão ▶️ de cada célula, começando pela Célula 1.
+Clique no botão  de cada célula, começando pela Célula 1.
 Aguarde cada uma terminar antes de passar para a próxima.
 
 ### 5. Insira sua API Key
